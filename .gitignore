@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 venv/
+=======
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.DS_Store
+>>>>>>> 1dd7bf8953c6ff7be9959fc653a599ca1dbc267f
